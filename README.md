@@ -66,5 +66,6 @@ Si deseas contribuir a este proyecto, por favor realiza un fork del repositorio 
 Este proyecto está licenciado bajo los términos de la licencia MIT.
 
 ## Capturas de la ejecución de la App:
+![EJCUCIÓN APP]()
 
 
