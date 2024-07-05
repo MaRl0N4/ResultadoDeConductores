@@ -66,6 +66,6 @@ Si deseas contribuir a este proyecto, por favor realiza un fork del repositorio 
 Este proyecto está licenciado bajo los términos de la licencia MIT.
 
 ## Capturas de la ejecución de la App:
-![EJCUCIÓN APP]()
+![EJCUCIÓN APP](https://github.com/MaRl0N4/ResultadoDeConductores/blob/41b77cecb213a2b2db9e0c8baf941491f9b09c15/Captura%20de%20pantalla%20(480).png)
 
 
