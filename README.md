@@ -67,5 +67,5 @@ Este proyecto está licenciado bajo los términos de la licencia MIT.
 
 ## Capturas de la ejecución de la App:
 ![EJCUCIÓN APP](https://github.com/MaRl0N4/ResultadoDeConductores/blob/41b77cecb213a2b2db9e0c8baf941491f9b09c15/Captura%20de%20pantalla%20(480).png)
-
+![EJCUCIÓN APP](https://github.com/MaRl0N4/ResultadoDeConductores/blob/a4285089987928b04cb6b8e044cc3faef28b0f4a/Captura%20de%20pantalla%20(481).png).
 
